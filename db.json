@@ -4,8 +4,8 @@
       "id": 1,
       "message": "Workstation not booting up",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "Jane Doe"
+      "tech": "Jane Doe",
+      "date": "2021-01-19T21:47:39.192Z"
     },
     {
       "id": 2,
@@ -17,9 +17,9 @@
     {
       "id": 3,
       "message": "Printer 911 - PC LOAD LETTER",
-      "attention": false,
-      "date": "03-17-2020",
-      "tech": "Mike Judge"
+      "attention": true,
+      "tech": "Mike Judge",
+      "date": "2021-01-19T21:55:15.650Z"
     }
   ],
   "techs": [
