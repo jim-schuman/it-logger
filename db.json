@@ -20,27 +20,6 @@
       "attention": false,
       "date": "03-17-2020",
       "tech": "Mike Judge"
-    },
-    {
-      "message": "HD Deconstructed",
-      "attention": true,
-      "date": "06-02-2019",
-      "tech": "Jane Doe",
-      "id": 4
-    },
-    {
-      "message": "Desk too small",
-      "attention": true,
-      "date": "06-02-2019",
-      "tech": "Jane Doe",
-      "id": 5
-    },
-    {
-      "message": "Need new network cable",
-      "attention": false,
-      "tech": "Jane Doe",
-      "date": "2021-01-19T19:29:19.661Z",
-      "id": 6
     }
   ],
   "techs": [
