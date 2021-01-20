@@ -44,16 +44,6 @@
       "id": 3,
       "firstName": "Mike",
       "lastName": "Judge"
-    },
-    {
-      "firstName": "Joe",
-      "lastName": "Biden",
-      "id": 4
-    },
-    {
-      "firstName": "Willie",
-      "lastName": "Jones",
-      "id": 5
     }
   ]
 }
